@@ -1,4 +1,8 @@
 📊 Excel Sales Dashboard
+## 📊 Dashboard Preview
+
+![Dashboard Demo](2026-04-3013-14-26-ezgif.com-video-to-gif-converter.gif)
+2026-04-3013-14-26-ezgif.com-video-to-gif-converter.gif
 Overview
 
 An interactive Excel dashboard built using Pivot Tables and charts to analyze sales performance, customer demographics, order status, and revenue trends.
